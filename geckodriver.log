@@ -285,3 +285,19 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: http://1
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 1669921156089	Marionette	INFO	Stopped listening on port 60622
+1669921724069	geckodriver	INFO	Listening on 127.0.0.1:61315
+1669921727113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofileFeQrZH"
+1669921727734	Marionette	INFO	Marionette enabled
+1669921727746	Marionette	INFO	Listening on port 61330
+Read port: 61330
+WebDriver BiDi listening on ws://127.0.0.1:61316
+1669921728067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofileFeQrZH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61316/devtools/browser/69ff8a28-4762-4d5f-a9bb-c0757fd860a6
+1669921731133	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669921731904	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://172.16.100.57:8080/Nexgen23/JavaScript/dhtml-suite-for-applications.js, line 11829: unreachable code after return statement
+JavaScript warning: http://172.16.100.57:8080/Nexgen23/JavaScript/dhtml-suite-for-applications.js, line 21977: unreachable code after return statement
+1669921750561	Marionette	INFO	Stopped listening on port 61330
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
