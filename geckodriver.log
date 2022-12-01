@@ -13,3 +13,49 @@ JavaScript warning: http://172.16.100.57:8080/Nexgen23/JavaScript/dhtml-suite-fo
 JavaScript warning: http://172.16.100.57:8080/Nexgen23/JavaScript/dhtml-suite-for-applications.js, line 21977: unreachable code after return statement
 1669909580548	Marionette	INFO	Stopped listening on port 49635
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669917082284	geckodriver	INFO	Listening on 127.0.0.1:55945
+1669917085342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofilePxoxbz"
+1669917086077	Marionette	INFO	Marionette enabled
+1669917086103	Marionette	INFO	Listening on port 55959
+Read port: 55959
+WebDriver BiDi listening on ws://127.0.0.1:55946
+1669917086620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofilePxoxbz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55946/devtools/browser/54b67410-d6c0-4954-8ba5-3f008fcc1c26
+1669917090348	Marionette	WARN	Ignoring event 'DOMContentLoad1669917093115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55980" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofileLcVsYP"
+1669917093896	Marionette	INFO	Marionette enabled
+1669917093909	Marionette	INFO	Listening o1669917142968	Marionette	INFO	Stopped listening on port 55959
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofileLcVsYP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55980/devtools/browser/e36d9d54-8ed1-496b-b345-b7b3ada4bf58
+1669917135830	Marionette	INFO	Stopped listening on port 56003
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1669917963121	geckodriver	INFO	Listening on 127.0.0.1:56857
+1669917966176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofilewWDotA"
+1669917966807	Marionette	INFO	Marionette enabled
+1669917966819	Marionette	INFO	Listening on port 56874
+Read port: 56874
+WebDriver BiDi listening on ws://127.0.0.1:56858
+1669917967113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofilewWDotA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56858/devtools/browser/721d55f9-9965-4a8b-bfcc-0b4ab118e8e9
+1669917970743	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://172.16.100.57:8080/Nexgen23/JavaScript/dhtml-suite-for-applications.js, line 11829: unreachable code after return statement
+JavaScript warning: http://172.16.100.57:8080/Nexgen23/JavaScript/dhtml-suite-for-applications.js, line 21977: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.16.100.57:8080."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669918001428	Marionette	INFO	Stopped listening on port 56874
+1669918198844	geckodriver	INFO	Listening on 127.0.0.1:57152
+1669918201892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofileXTbnZc"
+1669918202505	Marionette	INFO	Marionette enabled
+1669918202519	Marionette	INFO	Listening on port 57165
+Read port: 57165
+WebDriver BiDi listening on ws://127.0.0.1:57153
+1669918202801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\romil\\AppData\\Local\\Temp\\rust_mozprofileXTbnZc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57153/devtools/browser/4b1c654b-6278-4032-86a2-457c0a7261f5
+1669918206286	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://172.16.100.57:8080/Nexgen23/JavaScript/dhtml-suite-for-applications.js, line 11829: unreachable code after return statement
+JavaScript warning: http://172.16.100.57:8080/Nexgen23/JavaScript/dhtml-suite-for-applications.js, line 21977: unreachable code after return statement
